@@ -9,7 +9,7 @@ def main():
         {'name': 'Penelope Marshall', 'relationship_weight': 0.5, 'characteristic_weight': 0.2, 'net_worth': 500000},
         {'name': 'Will Marshall', 'relationship_weight': 0.3, 'characteristic_weight': 0.5, 'net_worth': 10000}
     ]
-
+    # This edit was done through remote repository vscode extension
     # Initialize the weights
     net_worth_weight = 0.2
     relationship_weight = 0.5
